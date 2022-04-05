@@ -107,6 +107,7 @@ p {
 }
 
 button {
+    border: none;
     height: 40px;
     width: 320px;
     border-radius: 40px;
